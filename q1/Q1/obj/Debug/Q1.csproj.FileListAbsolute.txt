@@ -1,0 +1,6 @@
+D:\task C#\q1\Q1\bin\Debug\Q1.exe.config
+D:\task C#\q1\Q1\bin\Debug\Q1.exe
+D:\task C#\q1\Q1\bin\Debug\Q1.pdb
+D:\task C#\q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+D:\task C#\q1\Q1\obj\Debug\Q1.exe
+D:\task C#\q1\Q1\obj\Debug\Q1.pdb
